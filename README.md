@@ -13,7 +13,13 @@ delivered with MINGW.
 #### Usage
 
 ```
-$ 
+$ python clasentrega.py <PATH_ORIGIN> <PATH_DEST>
+```
+
+More info:
+
+```
+$ python clasentrega.py --help
 ```
 
 ## Contact
